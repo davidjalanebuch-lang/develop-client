@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "developclient",
+  "version": "${version}",
+  "name": "Develop Client",
+  "description": "Develop Client - Utility/Cheat Client (lila-blau)",
+  "environment": "client",
+  "entrypoints": { "client": ["dev.developclient.DevelopClient"] },
+  "depends": {
+    "fabricloader": "*",
+    "minecraft": "~1.21.11",
+    "fabric-api": "*"
+  }
+}
