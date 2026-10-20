@@ -2,6 +2,7 @@ package dev.developclient.gui;
 
 import dev.developclient.DevelopClient;
 import dev.developclient.module.*;
+import dev.developclient.module.Module;
 import dev.developclient.module.impl.ChunkFinder;
 import net.minecraft.client.MinecraftClient;
 import net.minecraft.client.gui.DrawContext;

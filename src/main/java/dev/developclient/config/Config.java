@@ -3,6 +3,7 @@ package dev.developclient.config;
 import com.google.gson.*;
 import dev.developclient.DevelopClient;
 import dev.developclient.module.*;
+import dev.developclient.module.Module;
 import net.fabricmc.loader.api.FabricLoader;
 import java.nio.file.*;
 

@@ -2,6 +2,7 @@ package dev.developclient.gui;
 
 import dev.developclient.config.Config;
 import dev.developclient.module.*;
+import dev.developclient.module.Module;
 import net.minecraft.client.gui.Click;
 import net.minecraft.client.gui.DrawContext;
 import net.minecraft.client.gui.screen.Screen;

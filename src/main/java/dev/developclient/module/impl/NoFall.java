@@ -1,6 +1,7 @@
 package dev.developclient.module.impl;
 
 import dev.developclient.module.*;
+import dev.developclient.module.Module;
 import net.minecraft.network.packet.c2s.play.PlayerMoveC2SPacket;
 
 public class NoFall extends Module {

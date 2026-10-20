@@ -1,6 +1,7 @@
 package dev.developclient.module.impl;
 
 import dev.developclient.module.*;
+import dev.developclient.module.Module;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
 import net.minecraft.util.math.BlockPos;

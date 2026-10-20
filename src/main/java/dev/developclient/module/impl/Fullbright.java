@@ -1,6 +1,7 @@
 package dev.developclient.module.impl;
 
 import dev.developclient.module.*;
+import dev.developclient.module.Module;
 import net.minecraft.entity.effect.StatusEffectInstance;
 import net.minecraft.entity.effect.StatusEffects;
 

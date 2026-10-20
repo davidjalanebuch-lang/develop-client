@@ -1,6 +1,7 @@
 package dev.developclient.module.impl;
 
 import dev.developclient.module.*;
+import dev.developclient.module.Module;
 
 public class Zoom extends Module {
     private int oldFov = 70;

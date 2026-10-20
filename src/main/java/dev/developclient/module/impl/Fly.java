@@ -1,6 +1,7 @@
 package dev.developclient.module.impl;
 
 import dev.developclient.module.*;
+import dev.developclient.module.Module;
 
 public class Fly extends Module {
     private final Setting speed = new Setting("Speed", 0.05, 0.02, 0.5, 0.02);
